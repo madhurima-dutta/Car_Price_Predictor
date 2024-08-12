@@ -1,2 +1,2 @@
 # Car_Price_Predictor
-Predicting selling prices of cars from a given set of data
+The project successfully demonstrates the application of Linear and Lasso Regression models for predicting car prices, highlighting the importance of data preprocessing and model evaluation. The results indicate that with proper data handling and model tuning, it's possible to achieve accurate predictions, which can be useful for car dealerships and buyers in making informed pricing decisions. However, further model refinement and the exploration of more advanced algorithms could potentially improve prediction accuracy.
